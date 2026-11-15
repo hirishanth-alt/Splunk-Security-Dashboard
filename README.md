@@ -69,12 +69,20 @@ The following screenshot demonstrates the completed Splunk Security Policy Compl
 ## Repository Structure
 
 ```
-Splunk-Security-Monitoring/
+Splunk-Security-Dashboard/
 │
-├── sutrefia_security_compliance.xml
+├── Screenshots/
+│   ├── Dashboard layout.png
+│   ├── Dashboard layout 2.png
+│   ├── Panel 1.png
+│   ├── Panel 2.png
+│   ├── Panel 3.png
+│   ├── Panel 4.png
+│   ├── Panel 5.png
+│   ├── Panel 6.png
+│   └── .gitkeep
 │
-├── screenshots/
-│   └── dashboard-overview.png
+├── Sutrefia_Security_Policy_Compliance.xml
 │
 └── README.md
 ```
