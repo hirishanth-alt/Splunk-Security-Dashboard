@@ -33,6 +33,14 @@ Visualises MFA requirement status to provide an overview of authentication secur
 
 Displays the ten most frequently executed endpoint processes to support endpoint activity monitoring and identify potentially unusual process execution patterns.
 
+### 5. Installed Software by Host
+
+Tracks installed software and application versions across different hosts. The panel displays host names, software names, display versions, and observation counts to help identify outdated or unauthorised applications.
+
+### 6. Top 10 Network Connections
+
+Monitors outbound network connections and destination ports to identify unusual communication activity. The panel visualises destination IP addresses, destination ports, and connection counts to support network activity analysis.
+
 ## Technologies and Tools
 
 | Technology | Purpose |
