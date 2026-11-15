@@ -55,7 +55,7 @@ The resulting information was organised into multiple dashboard panels to provid
 
 The following screenshot demonstrates the completed Splunk Security Policy Compliance Dashboard.
 
-![Sutrefia Security Policy Compliance Dashboard](Screenshots/Dashboardlayout.png)
+![Sutrefia Security Policy Compliance Dashboard](Screenshots/Dashboard%20layout.png)
 
 ## Repository Structure
 
